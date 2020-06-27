@@ -1,0 +1,48 @@
+.calculator {
+    width: 330px;
+    height: 450px;
+    border: #222222 2px solid;
+    margin: 0 auto;
+    background: #222222;
+    position: relative;
+}
+
+.btn-family button {
+    width: 75px !important;
+    height: 50px;
+    border: none;
+    margin-top: 3px;
+}
+
+.btn-family {
+    width: 80%;
+    margin-left: 20px !important;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.cal-input {
+    width: 120% !important;
+    height: 90px;
+    margin-right: -22px;
+    background: #222222;
+    border: 1px solid white;
+    margin-bottom: 9px;
+    color: white;
+    font-size: 40px;
+}
+
+.numbtn {
+    background: #070707;
+    color: white;
+}
+
+.equalbtn {
+    background: #651a1a;
+    color: white;
+}
+
+.optbtn {
+    background: #141414;
+    color: white;
+}
